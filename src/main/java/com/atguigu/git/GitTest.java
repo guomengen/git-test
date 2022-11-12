@@ -16,5 +16,6 @@ public class GitTest {
         System.out.println("hello git8! master");
         System.out.println("hello git8! push test");
         System.out.println("hello git8! pull test");
+        System.out.println("hello git10! gitee test");
     }
 }
