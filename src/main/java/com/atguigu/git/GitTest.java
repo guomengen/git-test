@@ -18,5 +18,6 @@ public class GitTest {
         System.out.println("hello git8! pull test");
         System.out.println("hello git10! gitee test");
         System.out.println("hello git10! gitee test2");
+        System.out.println("hello git13! gitee test2");
     }
 }
